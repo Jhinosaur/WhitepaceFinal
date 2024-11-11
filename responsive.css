@@ -1,0 +1,499 @@
+@media only screen and (max-width: 1440px) {
+  .navigation {
+    width: 1, 440px;
+    height: 92px;
+    padding: 16px 32px 16px 32px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .first {
+    width: 1, 440px;
+    height: 656.39px;
+    top: 92px;
+    padding: 100px 32px 100px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .project-work {
+    width: 1, 376px;
+    height: 448px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .work {
+    width: 1, 376px;
+    height: 542.76px;
+    gap: 160px;
+    opacity: 0px;
+  }
+
+  .extension {
+    width: 1, 440px;
+    height: 759px;
+    top: 2119.15px;
+    padding: 140px 32px 140px 32px;
+    gap: 98px;
+    opacity: 0px;
+  }
+
+  .customisation {
+    width: 1, 440px;
+    height: 779.3px;
+    top: 2878.15px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .plan {
+    width: 1, 440px;
+    height: 1, 272px;
+    top: 3657.45px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .your-work {
+    width: 1, 440px;
+    height: 574px;
+    top: 4929.45px;
+    padding: 140px 32px 140px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .your-data {
+    width: 1, 440px;
+    height: 661.13px;
+    top: 5503.45px;
+    padding: 140px 32px 140px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .sponsors {
+    width: 1, 440px;
+    height: 538px;
+    top: 6164.58px;
+    left: -1px;
+    padding: 140px 32px 140px 32px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .apps {
+    width: 1, 440px;
+    height: 750.8px;
+    top: 6702.58px;
+    padding: 140px 32px 140px 32px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .clients {
+    width: 1, 440px;
+    height: 994.46px;
+    top: 7453.38px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .contacts {
+    width: 1, 440px;
+    height: 709px;
+    top: 8447.84px;
+    padding: 140px 32px 32px 32px;
+    gap: 200px;
+    opacity: 0px;
+  }
+
+  .footer {
+    width: 1, 440px;
+    height: 474px;
+    top: 9156.84px;
+    padding: 140px 32px 32px 32px;
+    gap: 200px;
+    opacity: 0px;
+  }
+}
+
+@media only screen and (max-width: 1152px) {
+  .navigation {
+    width: 1, 152px;
+    height: 92px;
+    padding: 16px 32px 16px 32px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .first {
+    width: 1, 152px;
+    height: 641px;
+    top: 92px;
+    padding: 140px 32px 140px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .project-work {
+    width: 1, 088px;
+    height: 421px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .work {
+    width: 1, 088px;
+    height: 491.56px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .extension {
+    width: 1, 152px;
+    height: 600.5px;
+    top: 2026px;
+    padding: 140px 32px 140px 32px;
+    gap: 98px;
+    opacity: 0px;
+  }
+
+  .customisation {
+    width: 1, 152px;
+    height: 677.95px;
+    top: 2626px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .plan {
+    width: 1, 152px;
+    height: 1, 354px;
+    top: 3304px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .your-work {
+    width: 1, 152px;
+    height: 701px;
+    top: 4658px;
+    padding: 140px 32px 140px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .your-data {
+    width: 1, 152px;
+    height: 624px;
+    top: 5359px;
+    padding: 140px 32px 140px 32px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .sponsors {
+    width: 1, 152px;
+    height: 528px;
+    top: 5983px;
+    left: -1px;
+    padding: 140px 32px 140px 32px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .apps {
+    width: 1, 152px;
+    height: 825px;
+    top: 6511px;
+    padding: 140px 32px 140px 32px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .clients {
+    width: 1, 152px;
+    height: 1, 056.46px;
+    top: 7336px;
+    padding: 140px 32px 140px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .contacts {
+    width: 1, 152px;
+    height: 709px;
+    top: 8392.46px;
+    padding: 140px 32px 32px 32px;
+    gap: 200px;
+    opacity: 0px;
+  }
+
+  .footer {
+    width: 1, 152px;
+    height: 474px;
+    top: 9101.46px;
+    padding: 140px 32px 32px 32px;
+    gap: 200px;
+    opacity: 0px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .navigation {
+    width: 768px;
+    height: 66px;
+    padding: 16px 32px 16px 32px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .first {
+    width: 768px;
+    height: 1, 051px;
+    top: 66px;
+    padding: 140px 20px 100px 20px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .project-work {
+    width: 728px;
+    height: 707px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .work {
+    width: 728px;
+    height: 790.67px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .extension {
+    width: 768px;
+    height: 916.93px;
+    top: 2914.67px;
+    padding: 100px 32px 100px 32px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .customisation {
+    width: 768px;
+    height: 1, 009.95px;
+    top: 3831.59px;
+    padding: 140px 20px 140px 20px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .plan {
+    width: 768px;
+    height: 1, 200px;
+    top: 4841.54px;
+    padding: 140px 20px 140px 20px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .your-work {
+    width: 768px;
+    height: 673px;
+    top: 6041.54px;
+    padding: 140px 20px 140px 20px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .your-data {
+    width: 768px;
+    height: 965.11px;
+    top: 6714.54px;
+    padding: 140px 20px 140px 20px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .sponsors {
+    width: 768px;
+    height: 1, 015.81px;
+    top: 7679.65px;
+    padding: 140px 20px 140px 20px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .apps {
+    width: 768px;
+    height: 1, 109.33px;
+    top: 8695.46px;
+    padding: 140px 20px 140px 20px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .clients {
+    width: 768px;
+    height: 932px;
+    top: 9804.79px;
+    padding: 140px 20px 100px 20px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .contacts {
+    width: 768px;
+    height: 597px;
+    top: 10736.79px;
+    padding: 140px 20px 32px 20px;
+    gap: 200px;
+    opacity: 0px;
+  }
+
+  .footer {
+    width: 768px;
+    height: 1, 542.68px;
+    top: 11306.79px;
+    padding: 80px 32px 32px 32px;
+    gap: 200px;
+    opacity: 0px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .navigation {
+    width: 320px;
+    height: 56px;
+    padding: 16px 0px 0px 0px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+  }
+
+  .first {
+    width: 320px;
+    height: 813px;
+    top: 56px;
+    padding: 80px 16px 80px 16px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .project-work {
+    width: 288px;
+    height: 659px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .work {
+    width: 288px;
+    height: 667.74px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .extension {
+    width: 320px;
+    height: 810.65px;
+    top: 2455.74px;
+    padding: 80px 16px 80px 16px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .customisation {
+    width: 320px;
+    height: 860.62px;
+    top: 3266.4px;
+    padding: 100px 16px 100px 16px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .plan {
+    width: 320px;
+    height: 1, 246px;
+    top: 4127.02px;
+    padding: 80px 16px 80px 16px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .your-work {
+    width: 320px;
+    height: 766px;
+    top: 5373.02px;
+    padding: 100px 16px 140px 16px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .your-data {
+    width: 320px;
+    height: 830.58px;
+    top: 6139.02px;
+    padding: 80px 16px 80px 16px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .sponsors {
+    width: 320px;
+    height: 813.16px;
+    top: 6969.6px;
+    padding: 80px 16px 80px 16px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .apps {
+    width: 320px;
+    height: 927.76px;
+    top: 7782.76px;
+    padding: 80px 16px 80px 16px;
+    gap: 100px;
+    opacity: 0px;
+  }
+
+  .clients {
+    width: 320px;
+    height: 894.02px;
+    top: 8710.52px;
+    padding: 100px 16px 100px 16px;
+    gap: 60px;
+    opacity: 0px;
+  }
+
+  .contacts {
+    width: 320px;
+    height: 596px;
+    top: 9604.54px;
+    padding: 100px 16px 32px 16px;
+    gap: 200px;
+    opacity: 0px;
+  }
+
+  .footer {
+    width: 320px;
+    height: 1, 706px;
+    top: 10200.54px;
+    padding: 140px 16px 32px 16px;
+    gap: 200px;
+    opacity: 0px;
+  }
+}
